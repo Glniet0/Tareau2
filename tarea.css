@@ -1,0 +1,29 @@
+#contenedor {
+  background-color: aliceblue;
+  border: 5px solid black;
+  margin: 0 auto;
+  width: 60%;
+  height: 120%;
+  position: relative;
+}
+
+#box1 {
+  background-color: rgb(201, 45, 180);
+  margin: 0 auto;
+  width: 60%;
+  height: 30%;
+}
+
+#box2 {
+  background-color: rgb(84, 46, 172);
+  margin: 0 auto;
+  width: 60%;
+  height: 30%;
+}
+
+#box3 {
+  background-color: rgb(48, 155, 187);
+  margin: 0 auto;
+  width: 60%;
+  height: 30%;
+}
