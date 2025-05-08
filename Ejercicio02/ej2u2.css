@@ -1,0 +1,37 @@
+#contenedor {
+    background-color: aliceblue;
+    border: 3px solid black;
+    margin: 0 auto;
+    width: 60%;
+    height: 600%;
+    position: relative;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }
+  
+  #box1 {
+    background-color: rgb(201, 45, 180);
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  #box2 {
+    background-color: rgb(84, 46, 172);
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  #box3 {
+    background-color: rgb(48, 155, 187);
+    width: 20%;
+    height: 30%;
+    text-align: center;
+    line-height: 100px;
+  }
+  
